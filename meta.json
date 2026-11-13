@@ -1,0 +1,71 @@
+{
+  "flows": [
+    {
+      "channel": "Meta",
+      "headline": "Where do you start?",
+      "paywall_opens_on": "Standard",
+      "note": "Title first"
+    },
+    {
+      "channel": "Meta",
+      "headline": "How much Yellowstone have you seen?",
+      "paywall_opens_on": "Yearly",
+      "note": "The saga, all year"
+    },
+    {
+      "channel": "Meta",
+      "headline": "Who’s watching?",
+      "paywall_opens_on": "the plan that fits their answer",
+      "note": "Plan finder"
+    }
+  ],
+  "prices": {
+    "monthly": {
+      "Standard with ads": "5,99 €",
+      "Standard": "8,99 €",
+      "Prémium": "13,99 €"
+    },
+    "yearly": {
+      "Standard with ads": "47,99 €",
+      "Standard": "71,99 €",
+      "Prémium": "109,99 €"
+    },
+    "source": "App Store listing (Spain), in-app purchases"
+  },
+  "today": {
+    "text": "whoever installs the app later meets the same first screen, whatever the ad promised"
+  },
+  "rebuild": "then rebuilt the first screens around the ads.",
+  "ideas": [
+    {
+      "n": 1,
+      "title": "Keep the ad’s promise on the first screen",
+      "screen": "First question",
+      "outcome": "+10–20% CR to subscription"
+    },
+    {
+      "n": 2,
+      "title": "Show the show before the price",
+      "screen": "First value",
+      "outcome": "+5–15% CR to subscription"
+    },
+    {
+      "n": 3,
+      "title": "Make the yearly saving impossible to miss",
+      "screen": "Paywall",
+      "outcome": "+10–15% ARPU, from more yearly plans"
+    },
+    {
+      "n": 4,
+      "title": "Your plans in your words, proof where they decide",
+      "screen": "Paywall",
+      "outcome": "+5–15% CR to subscription"
+    },
+    {
+      "n": 5,
+      "title": "Catch the people who close the paywall",
+      "screen": "On close",
+      "outcome": "+5–10% CR to subscription"
+    }
+  ]
+}
